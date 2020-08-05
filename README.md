@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/alexnogueirasilva/alexnogueirasilva/master/Hi%20I'm%20Alex%2C%20Web%20Developer.png">
+<img src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/Hi%20I'm%20Alex,%20Web%20Developer.gif?raw=true">
 
 
 <center>
