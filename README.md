@@ -1,12 +1,12 @@
 
 <img src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/Hi%20I'm%20Alex,%20Web%20Developer.gif?raw=true">
 
-
 <center>
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnogueirasilva&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&theme=default" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&theme=dark" /></td>
+     
   </tr>   
 </table>
 </center>
