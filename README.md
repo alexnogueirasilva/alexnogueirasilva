@@ -15,7 +15,7 @@
   Hey, I'm Alex! 👋
 </h4>
 <p align="left">
-  I'm a bachelor in Systems Analysis and Development and passionate about technology and especially the Apple ecosystem. I have been working with development and coding for about 1 year, precisely with mobile development for iOS, including projects from conception to publication on the App Store.
+  I'm a bachelor in Systems Analysis and Development and passionate about technology. I have been working with development and coding for about 1 year, precisely with web development.
 </p>
 <h5 align="left">
   📌  Living in <b>Feira de Santana</b>, <b>Bahia</b>, <b>Brazil</b>  
@@ -24,9 +24,7 @@
 
 <h5 align="left">💼Currently working with web development in DevAction </h5>
 
-<!--
-**victoriafaria/victoriafaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+
 
 Here are some ideas to get you started:
 
