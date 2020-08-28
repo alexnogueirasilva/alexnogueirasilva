@@ -20,7 +20,7 @@
 <h5 align="left">
   📌  Living in <b>Feira de Santana</b>, <b>Bahia</b>, <b>Brazil</b>  
 </h5>
-<h5 align="left">💻 PHP | Laravel | JavaScript | SQL | React | Vue | Git | Docker </h5>
+<h5 align="left">💻 PHP | Laravel | JavaScript | SQL | React | Vue | Git | Docker | Kubernetes </h5>
 
 <h5 align="left">💼Currently working with web development in DevAction </h5>
 
