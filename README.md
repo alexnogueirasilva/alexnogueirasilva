@@ -35,13 +35,13 @@ Hi, I'm [Alex Nogueira](https://devaction.com.br/), I'm a bachelor in Systems An
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-PHP          17 hrs 53 mins  ██████████████████████▒░░   89.51 % 
+PHP          67 hrs 53 mins  ██████████████████████▒░░   89.51 % 
 Ruby         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 Rails        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 Laravel      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
