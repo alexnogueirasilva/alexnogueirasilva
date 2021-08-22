@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Alex Nogueira](https://devaction.com.br/), I'm a bachelor in Systems Analysis and Development and passionate about technology. I have been working with development and coding for about 2 year, precisely with web development.
+Hi, I'm [Alex Nogueira](https://devaction.com.br/), I'm a bachelor in Systems Analysis and Development and passionate about technology. I have been working with development and coding for about 4 year, precisely with web development.
 
   <img align="right" alt="GIF" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/code.gif?raw=true" width="500" height="320" />
   
