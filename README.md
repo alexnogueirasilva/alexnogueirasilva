@@ -1,72 +1,43 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="#">
-  <img align="left" alt="Alex's Discord" width="22px" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/discord.svg" />
-</a>
-<a href="https://twitter.com/AlexSilvalov">
-  <img align="left" alt="Alex Naidu | Twitter" width="22px" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alex-nogueira-6ba78063/">
-  <img align="left" alt="Alex's LinkedIN" width="22px" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/12145195220">
-  <img align="left" alt="Alex's Spotify" width="22px" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/spotify.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Alex Nogueira</h1>
+<h3 align="center">I'm a bachelor in Systems Analysis and Development and passionate about technology. I have been working with development and coding for about 4 year, precisely with web development.</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=alexnogueirasilva.alexnogueirasilva)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexnogueirasilva&label=Profile%20views&color=0e75b6&style=flat" alt="alexnogueirasilva" /> </p>
 
-<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexnogueirasilva" alt="alexnogueirasilva" /></a> </p>
 
-Hi, I'm [Alex Nogueira](https://devaction.com.br/), I'm a bachelor in Systems Analysis and Development and passionate about technology. I have been working with development and coding for about 4 year, precisely with web development.
+<p align="left"> <a href="https://twitter.com/devoncycle" target="blank"><img src="https://img.shields.io/twitter/follow/devoncycle?logo=twitter&style=for-the-badge" alt="devoncycle" /></a> </p>
 
-  <img align="right" alt="GIF" src="https://github.com/alexnogueirasilva/alexnogueirasilva/blob/master/assest/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@alexnogueirasilva](https://twitter.com/alexnogueirasilva);
-- ✨ **Wanna Talk?** [calendly](https://calendly.com/alexnogueirasilva)
-- 📝 [Resume]()
+- 🔭 I’m currently working on [moneycoffee](https://www.moneycoffee.com.br/)
 
-**Languages and Tools:**  
+- 🌱 I’m currently learning **gRPC, Go, Elixir, Laravel**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+- 👯 I’m looking to collaborate on [Alanti](https://app.alanti.com.br/)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-PHP          97 hrs 53 mins  ██████████████████████▒░░   89.51 % 
-Ruby         8 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Rails        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Laravel      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-```
-<!--END_SECTION:waka-->
+- 🤝 I’m looking for help with **ERPGo_hub**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://devaction.com.br/](https://devaction.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
-<!-- TODO-IST:END -->
+- 📝 I regularly write articles on [https://devaction.com.br/blog](https://devaction.com.br/blog)
 
+- 💬 Ask me about **PHP, Laravel, Vue, Nuxt**
 
-📈 My GitHub Stats
+- 📫 How to reach me **alex@devaction.com.br**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&theme=gotham" alt="alexnogueirasilva" />
+- 📄 Know about my experiences [https://www.linkedin.com/in/alex-nogueira-6ba78063/](https://www.linkedin.com/in/alex-nogueira-6ba78063/)
 
+- ⚡ Fun fact **I tried to be a football player**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devoncycle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devoncycle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alex-nogueira-6ba78063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-nogueira-6ba78063" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnogueirasilva&show_icons=true&locale=en&layout=compact" alt="alexnogueirasilva" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&locale=en" alt="alexnogueirasilva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexnogueirasilva&" alt="alexnogueirasilva" /></p>
