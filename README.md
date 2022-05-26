@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnogueirasilva&show_icons=true&locale=en&layout=compact" alt="alexnogueirasilva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&locale=en" alt="alexnogueirasilva" /></p>
+📈 My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexnogueirasilva&" alt="alexnogueirasilva" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&theme=radical)
