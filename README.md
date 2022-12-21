@@ -9,7 +9,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'MoneyCoffee',
+                'company' => 'InsideCoffee',
                 'position' => 'Founder'         
             ]
         ];
@@ -19,10 +19,11 @@ class About extends Me
     {
         return [
             Php::class,
-            Javascript::class,
             Laravel::class,
-            Vuejs::class,
             Elixir::class,
+            Javascript::class,
+            TypeScript,
+            Vuejs::class,
             TailwindCss::class,
         ];
     }
