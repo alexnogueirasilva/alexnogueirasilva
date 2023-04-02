@@ -21,6 +21,7 @@ class About extends Me
             Php::class,
             Laravel::class,
             Elixir::class,
+            Phoenix::class
             Javascript::class,
             TypeScript,
             Vuejs::class,
