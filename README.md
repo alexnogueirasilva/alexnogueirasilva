@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'InsideCoffee',
-                'position' => 'Founder'         
+                'company' => 'Luizalabs',
+                'position' => 'Software engineer'         
             ]
         ];
     }
@@ -25,6 +25,7 @@ class About extends Me
             Javascript::class,
             TypeScript,
             Vuejs::class,
+            Golang::class,
             TailwindCss::class,
         ];
     }
