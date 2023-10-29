@@ -20,6 +20,7 @@ class About extends Me
         return [
             Php::class,
             Laravel::class,
+            Livewire::class,
             Elixir::class,
             Phoenix::class
             Javascript::class,
