@@ -1,37 +1,73 @@
 <div align="center">
 
-# Hi, I'm Alex Nogueira Silva 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B07CFF&height=120&section=header&text=Alex%20Nogueira%20Silva&fontSize=32&fontColor=FFFFFF&desc=Software%20Engineer%20%40%20Luizalabs%20%E2%80%A2%20Full%E2%80%91Stack&descAlignY=75&descSize=14&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Luizalabs;Full+Stack+Developer;Elixir+%7C+PHP+%7C+Go+Enthusiast)](https://git.io/typing-svg)
+<br/>
 
-</div>
+**PT** · Construo produtos digitais com foco em clareza, performance e escala.  
+**EN** · I build digital products focused on clarity, performance, and scale.
 
-## 🚀 Tech Stack
-
-**Backend:** PHP • Laravel • Livewire • Elixir • Phoenix • Go  
-**Frontend:** JavaScript • TypeScript • Vue.js • TailwindCSS  
-**Tools:** Git • Docker • MySQL • PostgreSQL • Redis
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnogueirasilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnogueirasilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnogueirasilva&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7)
+<br/>
 
 </div>
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexnogueirasilva)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexnogueirasilva)
 
 ---
 
+## ✦ Visão / Focus
+
+<table>
+  <tr>
+    <td><strong>⚡ Produto</strong><br/>Soluções práticas, entregáveis e sustentáveis.</td>
+    <td><strong>🧩 Arquitetura</strong><br/>APIs sólidas, integrações e automações.</td>
+    <td><strong>🛠️ Execução</strong><br/>Código limpo, seguro e fácil de manter.</td>
+  </tr>
+</table>
+
+---
+
+## ✦ Projetos / Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Mavorax</strong><br/>
+      ERP/gestão comercial inteligente para operação e fiscal.<br/><br/>
+      <a href="https://github.com/devaction-labs/Mavorax">Repositório</a>
+    </td>
+    <td width="50%">
+      <strong>useNexus</strong><br/>
+      Plataforma interna para processos e integrações.<br/><br/>
+      <a href="https://github.com/devaction-labs/useNexus">Repositório</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✦ Tecnologias (compacto)
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexnogueirasilva&label=Profile+Views&color=00F7F7&style=flat)
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+
+</div>
+
+---
+
+## ✦ Contato / Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/alexnogueirasilva">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/alexnogueirasilva">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
