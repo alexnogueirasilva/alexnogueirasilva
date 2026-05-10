@@ -1,0 +1,117 @@
+<svg width="800" height="620" viewBox="0 0 800 620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Sora:wght@300;400;600;700&amp;display=swap');
+    </style>
+  </defs>
+  <!-- bg -->
+  <rect width="800" height="620" fill="#0d1117" rx="12"/>
+
+  <!-- header -->
+  <text x="48" y="64" font-family="'Sora',sans-serif" font-size="11" fill="#484f58" letter-spacing="4" font-weight="400">SOFTWARE ENGINEER · FEIRA DE SANTANA, BA</text>
+  <text x="48" y="104" font-family="'Sora',sans-serif" font-size="32" fill="#e6edf3" font-weight="700" letter-spacing="-1">Alex Nogueira</text>
+  <text x="310" y="104" font-family="'Sora',sans-serif" font-size="32" fill="#484f58" font-weight="300" letter-spacing="-1"> · Luizalabs</text>
+  <text x="48" y="132" font-family="'Sora',sans-serif" font-size="13" fill="#8b949e">Backend engineer com 10+ anos — Elixir/Phoenix &amp; PHP/Laravel</text>
+
+  <!-- divider -->
+  <line x1="48" y1="158" x2="752" y2="158" stroke="#21262d" stroke-width="1"/>
+
+  <!-- foco -->
+  <text x="48" y="185" font-family="'DM Mono',monospace" font-size="9" fill="#484f58" letter-spacing="3">FOCO</text>
+  <text x="48" y="210" font-family="'DM Mono',monospace" font-size="10" fill="#484f58">01</text>
+  <text x="80" y="210" font-family="'Sora',sans-serif" font-size="12" fill="#e6edf3" font-weight="600">Produto</text>
+  <text x="172" y="210" font-family="'Sora',sans-serif" font-size="12" fill="#8b949e">Soluções práticas, entregáveis e sustentáveis.</text>
+  <text x="48" y="230" font-family="'DM Mono',monospace" font-size="10" fill="#484f58">02</text>
+  <text x="80" y="230" font-family="'Sora',sans-serif" font-size="12" fill="#e6edf3" font-weight="600">Arquitetura</text>
+  <text x="172" y="230" font-family="'Sora',sans-serif" font-size="12" fill="#8b949e">APIs sólidas, integrações e automações.</text>
+  <text x="48" y="250" font-family="'DM Mono',monospace" font-size="10" fill="#484f58">03</text>
+  <text x="80" y="250" font-family="'Sora',sans-serif" font-size="12" fill="#e6edf3" font-weight="600">Execução</text>
+  <text x="172" y="250" font-family="'Sora',sans-serif" font-size="12" fill="#8b949e">Código limpo, seguro e fácil de manter.</text>
+
+  <!-- divider -->
+  <line x1="48" y1="272" x2="752" y2="272" stroke="#21262d" stroke-width="1"/>
+
+  <!-- projetos -->
+  <text x="48" y="296" font-family="'DM Mono',monospace" font-size="9" fill="#484f58" letter-spacing="3">PROJETOS</text>
+
+  <!-- mavorax -->
+  <text x="48" y="322" font-family="'Sora',sans-serif" font-size="15" fill="#e6edf3" font-weight="700">Mavorax</text>
+  <rect x="130" y="308" width="34" height="16" rx="3" fill="#3d2600"/>
+  <text x="147" y="320" font-family="'DM Mono',monospace" font-size="9" fill="#f0883e" text-anchor="middle">beta</text>
+  <text x="48" y="340" font-family="'Sora',sans-serif" font-size="11" fill="#8b949e">ERP/gestão comercial. Event Sourcing + Laravel Horizon.</text>
+  <text x="48" y="358" font-family="'DM Mono',monospace" font-size="10" fill="#484f58">#php · #laravel · #event-sourcing</text>
+  <text x="48" y="376" font-family="'DM Mono',monospace" font-size="10" fill="#58a6ff" text-decoration="underline">mavorax.com.br ↗</text>
+
+  <!-- useNexus -->
+  <text x="430" y="322" font-family="'Sora',sans-serif" font-size="15" fill="#e6edf3" font-weight="700">useNexus</text>
+  <rect x="522" y="308" width="56" height="16" rx="3" fill="#0d2f1e"/>
+  <text x="550" y="320" font-family="'DM Mono',monospace" font-size="9" fill="#3fb950" text-anchor="middle">building</text>
+  <text x="430" y="340" font-family="'Sora',sans-serif" font-size="11" fill="#8b949e">Plataforma de processos e integrações. Oban para jobs.</text>
+  <text x="430" y="358" font-family="'DM Mono',monospace" font-size="10" fill="#484f58">#elixir · #phoenix · #oban</text>
+  <text x="430" y="376" font-family="'DM Mono',monospace" font-size="10" fill="#58a6ff" text-decoration="underline">usenexus.app.br ↗</text>
+
+  <!-- divider col -->
+  <line x1="400" y1="298" x2="400" y2="385" stroke="#21262d" stroke-width="1"/>
+
+  <!-- divider -->
+  <line x1="48" y1="398" x2="752" y2="398" stroke="#21262d" stroke-width="1"/>
+
+  <!-- stack -->
+  <text x="48" y="422" font-family="'DM Mono',monospace" font-size="9" fill="#484f58" letter-spacing="3">STACK</text>
+
+  <!-- stack items inline -->
+  <text x="48" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#a371f7">Elixir</text>
+  <text x="102" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="114" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#f0883e">Phoenix</text>
+  <text x="178" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="190" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#79c0ff">PHP</text>
+  <text x="220" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="232" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#ff7b72">Laravel</text>
+  <text x="290" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="302" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#56d364">Go</text>
+  <text x="326" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="338" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#56d364">Vue</text>
+  <text x="368" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="380" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#79c0ff">PostgreSQL</text>
+  <text x="462" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="474" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#f0883e">RabbitMQ</text>
+  <text x="550" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="562" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#79c0ff">Kubernetes</text>
+  <text x="648" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">·</text>
+  <text x="660" y="445" font-family="'DM Mono',monospace" font-size="11" fill="#79c0ff">Docker</text>
+
+  <!-- divider -->
+  <line x1="48" y1="466" x2="752" y2="466" stroke="#21262d" stroke-width="1"/>
+
+  <!-- carreira -->
+  <text x="48" y="490" font-family="'DM Mono',monospace" font-size="9" fill="#484f58" letter-spacing="3">CARREIRA</text>
+
+  <!-- pipe rows -->
+  <text x="48" y="514" font-family="'DM Mono',monospace" font-size="11" fill="#3fb950">"2023 → now"</text>
+  <text x="152" y="514" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="172" y="514" font-family="'DM Mono',monospace" font-size="11" fill="#3fb950">Luizalabs · Magalu</text>
+  <text x="316" y="514" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="336" y="514" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">[:php, :laravel, :elixir, :rabbitmq, :k8s]</text>
+
+  <text x="48" y="534" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">"2022 → 2023"</text>
+  <text x="152" y="534" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="172" y="534" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">aiqfome</text>
+  <text x="316" y="534" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="336" y="534" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">[:php, :laravel, :mysql]</text>
+
+  <text x="48" y="554" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">"2016 → 2022"</text>
+  <text x="152" y="554" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="172" y="554" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">Fabmed Hospitalar</text>
+  <text x="316" y="554" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="336" y="554" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">[:php, :laravel, :elixir, :vue]</text>
+
+  <text x="48" y="574" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">"2014 → 2016"</text>
+  <text x="152" y="574" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="172" y="574" font-family="'DM Mono',monospace" font-size="11" fill="#8b949e">Zuck Papéis</text>
+  <text x="316" y="574" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">|&gt;</text>
+  <text x="336" y="574" font-family="'DM Mono',monospace" font-size="11" fill="#484f58">[:php, :postgresql]</text>
+
+  <!-- footer -->
+  <line x1="48" y1="594" x2="752" y2="594" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="612" font-family="'DM Mono',monospace" font-size="9" fill="#484f58" text-anchor="middle" letter-spacing="2">OPEN TO OPPORTUNITIES</text>
+</svg>
